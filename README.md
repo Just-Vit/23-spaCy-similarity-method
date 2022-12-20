@@ -110,6 +110,12 @@ And run it
 
     python w_2_similarity_good.py
 
+the outcome be like that:
+
+	┌──(my_weather)─(vit㉿acer)-[~]
+	└─$ python w_2_similarity_good.py  
+	scattered clouds
+	0.8284746233849366
 
 
 
